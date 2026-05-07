@@ -165,5 +165,5 @@ Buy keys or upgrade plans on our Discord:
 
 | Language | Repo |
 |---|---|
-| C++ | [Onyx-Auth-CPP-Example](https://github.com/1shot-1moan/Onyx-Auth-CPP-Example) |
-| C# WinForms | [Onyx-Auth-CSharp-Example](https://github.com/1shot-1moan/Onyx-Auth-CSharp-Example) |
+| C++ | [Onyx-Auth-CPP-Example](https://github.com/FalconVault/CPP-Example-main) |
+| C# WinForms | [Onyx-Auth-CSharp-Example](https://github.com/FalconVault/CSharp-Example-main) |
